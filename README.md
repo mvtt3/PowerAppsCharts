@@ -50,21 +50,21 @@ Tecnologia	Utilizzo
 
 ## 🔄 Flusso di Interazione
 
-- 1.L’utente accede alla schermata principale dell’app
-- 2.Può aggiungere, modificare o eliminare dati delle startup con validazioni sui campi
-- 3.Cliccando su "Get Data", le dashboard si aggiornano automaticamente
-- 4.I dati sono visualizzati in grafici dinamici filtrabili per anno, settore o KPI
-- 5.Le informazioni sono archiviate in Dataverse e gestite tramite collections per performance migliori
+- 1. L’utente accede alla schermata principale dell’app
+- 2. Può aggiungere, modificare o eliminare dati delle startup con validazioni sui campi
+- 3. Cliccando su "Get Data", le dashboard si aggiornano automaticamente
+- 4. I dati sono visualizzati in grafici dinamici filtrabili per anno, settore o KPI
+- 5. Le informazioni sono archiviate in Dataverse e gestite tramite collections per performance migliori
 
 ---
 
 ## 🧪 Come Usarlo
 
 ### ▶️ Esecuzione
-- 1.Accedi al tuo ambiente Power Apps.
-- 2.Importa il file .msapp (se incluso nel repo).
-- 3.Associa le tabelle Dataverse (incluse o da ricreare seguendo la struttura fornita).
-- 4.Avvia l’app in modalità anteprima o pubblicala.
+- 1. Accedi al tuo ambiente Power Apps.
+- 2. Importa il file .msapp (se incluso nel repo).
+- 3. Associa le tabelle Dataverse (incluse o da ricreare seguendo la struttura fornita).
+- 4. Avvia l’app in modalità anteprima o pubblicala.
 
 💡 Non serve alcuna scrittura di codice tradizionale: tutto è basato su Power Fx e interfaccia visuale.
 ---
