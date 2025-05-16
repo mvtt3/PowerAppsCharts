@@ -6,7 +6,7 @@
 
 ## ✨ Benvenuto!
 
-QQuesta app realizzata in Microsoft Power Apps è stata progettata per gestire, analizzare e visualizzare in modo interattivo i dati di startup.
+Questa app realizzata in Microsoft Power Apps è stata progettata per gestire, analizzare e visualizzare in modo interattivo i dati di startup.
 Un progetto creato prendendo spunto da dati reali di startup, gestiti all’interno di Dataverse e resi fruibili tramite un’interfaccia dinamica, scalabile e professionale.
 
 Se sei arrivato qui dal mio sito portfolio, benvenuto nel cuore tecnico del progetto! 💻
