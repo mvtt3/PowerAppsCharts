@@ -28,10 +28,10 @@ Se sei arrivato qui dal mio sito portfolio, benvenuto nel cuore tecnico del prog
 
 ## 🛠️ Tecnologie Utilizzate
 Tecnologia	Utilizzo
--Power Apps	Interfaccia utente e logica app
--Dataverse	Database relazionale cloud per archiviazione strutturata
--Power Fx	Logica delle azioni tramite formule no-code
--Collections	Gestione dinamica e temporanea dei dati nei grafici
+- Power Apps	Interfaccia utente e logica app
+- Dataverse	Database relazionale cloud per archiviazione strutturata
+- Power Fx	Logica delle azioni tramite formule no-code
+- Collections	Gestione dinamica e temporanea dei dati nei grafici
 
 ➡️ Il progetto è interamente sviluppato in modalità no-code / low-code, pensato per ambienti aziendali o educational con bisogno di soluzioni rapide e professionali.
 ---
@@ -50,21 +50,21 @@ Tecnologia	Utilizzo
 
 ## 🔄 Flusso di Interazione
 
--L’utente accede alla schermata principale dell’app
--Può aggiungere, modificare o eliminare dati delle startup con validazioni sui campi
--Cliccando su "Get Data", le dashboard si aggiornano automaticamente
--I dati sono visualizzati in grafici dinamici filtrabili per anno, settore o KPI
--Le informazioni sono archiviate in Dataverse e gestite tramite collections per performance migliori
+- 1.L’utente accede alla schermata principale dell’app
+- 2.Può aggiungere, modificare o eliminare dati delle startup con validazioni sui campi
+- 3.Cliccando su "Get Data", le dashboard si aggiornano automaticamente
+- 4.I dati sono visualizzati in grafici dinamici filtrabili per anno, settore o KPI
+- 5.Le informazioni sono archiviate in Dataverse e gestite tramite collections per performance migliori
 
 ---
 
 ## 🧪 Come Usarlo
 
 ### ▶️ Esecuzione
-1.Accedi al tuo ambiente Power Apps.
-2.Importa il file .msapp (se incluso nel repo).
-3.Associa le tabelle Dataverse (incluse o da ricreare seguendo la struttura fornita).
-4.Avvia l’app in modalità anteprima o pubblicala.
+- 1.Accedi al tuo ambiente Power Apps.
+- 2.Importa il file .msapp (se incluso nel repo).
+- 3.Associa le tabelle Dataverse (incluse o da ricreare seguendo la struttura fornita).
+- 4.Avvia l’app in modalità anteprima o pubblicala.
 
 💡 Non serve alcuna scrittura di codice tradizionale: tutto è basato su Power Fx e interfaccia visuale.
 ---
@@ -87,11 +87,11 @@ Tecnologia	Utilizzo
 
 ## 🚀 Possibili Sviluppi Futuri
 
--Integrazione con Power BI per analisi avanzate
--Notifiche automatiche via Power Automate
--Esportazione dati in Excel o PDF
--Logging delle modifiche tramite tabelle cronologiche
--Visualizzazione su mappa delle startup (es. per città o nazione)
+- Integrazione con Power BI per analisi avanzate
+- Notifiche automatiche via Power Automate
+- Esportazione dati in Excel o PDF
+- Logging delle modifiche tramite tabelle cronologiche
+- Visualizzazione su mappa delle startup (es. per città o nazione)
 
 ---
 
