@@ -14,6 +14,7 @@ Se sei arrivato qui dal mio sito portfolio, benvenuto nel cuore tecnico del prog
 ---
 
 ## 📌 Funzionalità principali
+
 -✅ Gestione completa dei dati: Aggiunta, Modifica, Eliminazione
 -✅ Controlli su dati obbligatori e input limitati
 -✅ Dashboard dinamiche con grafici a barre e a torta
