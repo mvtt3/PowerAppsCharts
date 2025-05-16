@@ -15,14 +15,14 @@ Se sei arrivato qui dal mio sito portfolio, benvenuto nel cuore tecnico del prog
 
 ## 📌 Funzionalità principali
 
--✅ Gestione completa dei dati: Aggiunta, Modifica, Eliminazione
--✅ Controlli su dati obbligatori e input limitati
--✅ Dashboard dinamiche con grafici a barre e a torta
--✅ Filtri avanzati per anno, settore e metrica
--✅ Pulsante "Get Data" per aggiornare le visualizzazioni in tempo reale
--✅ Esperienza responsive ottimizzata per dispositivi mobile
--✅ Utilizzo di Collections per ottimizzare i dati localmente
--✅ Interfaccia modulare e scalabile
+- ✅ Gestione completa dei dati: Aggiunta, Modifica, Eliminazione
+- ✅ Controlli su dati obbligatori e input limitati
+- ✅ Dashboard dinamiche con grafici a barre e a torta
+- ✅ Filtri avanzati per anno, settore e metrica
+- ✅ Pulsante "Get Data" per aggiornare le visualizzazioni in tempo reale
+- ✅ Esperienza responsive ottimizzata per dispositivi mobile
+- ✅ Utilizzo di Collections per ottimizzare i dati localmente
+- ✅ Interfaccia modulare e scalabile
 
 ---
 
